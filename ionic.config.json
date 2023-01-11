@@ -1,0 +1,7 @@
+{
+  "name": "iHair",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
